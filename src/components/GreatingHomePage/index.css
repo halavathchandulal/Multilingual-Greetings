@@ -1,0 +1,26 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-heading {
+  color: #1e293b;
+  font-size: 40px;
+  font-weight: 800;
+  font-family: 'Roboto';
+}
+
+.list-items-container {
+  list-style-type: none;
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+}
+
+.greeting-img {
+  height: 350px;
+  width: 400px;
+}

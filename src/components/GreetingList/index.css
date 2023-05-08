@@ -1,0 +1,21 @@
+.list-item {
+  height: 40px;
+  width: 100px;
+}
+
+.list-item-btn {
+  border: 1px solid #db1c48;
+  background-color: #ffffff;
+  color: #db1c48;
+  border-radius: 25px;
+  font-size: 17px;
+  font-family: 'Roboto';
+  outline: none;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.active-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+}
