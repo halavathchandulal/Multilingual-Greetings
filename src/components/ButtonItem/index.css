@@ -1,0 +1,17 @@
+.button-list-item {
+}
+
+.language-button {
+  border: 1px solid #db1c48;
+  background-color: #ffffff;
+  color: #db1c48;
+  padding: 6px 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  outline: none;
+}
+
+.active-button {
+  background-color: #db1c48;
+  color: #ffffff;
+}
